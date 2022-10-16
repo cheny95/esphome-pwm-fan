@@ -1,6 +1,8 @@
 # esphome-pwm-fan
 8266通过ESPHOME使用PWM控制无级调速风扇
 
+![yaofan](https://user-images.githubusercontent.com/6293952/196037499-17ef6aec-9fe4-4fc2-a4ac-811a12bfb380.jpg)
+
 ## 硬件
 - 12V电源（5.5mm或线头式的随意，取决于你的降压模块和是否焊接）
 - 12V转5V降压模块
